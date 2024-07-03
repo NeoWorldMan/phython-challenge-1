@@ -63,6 +63,7 @@ Item # | Item name                | Price
 7      | Pizza - Vegetarian       | $9.99
 8      | Burger - Chicken         | $7.49
 9      | Burger - Beef            | $8.49
+
 Please input menu item selection number: 1
 Please enter the desired quantity: 2
 Would you like to keep ordering? (Y)es or (N)o N
